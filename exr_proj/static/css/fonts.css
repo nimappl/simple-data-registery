@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/Vazir.woff2');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/Vazir-Bold.woff2');
+    font-style: bold;
+}
+
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/Vazir-Medium.woff2');
+    font-style: medium;
+}
+
+@font-face {
+    font-family: Vazir-Light;
+    src: url('../fonts/Vazir-Light.woff2');
+}
